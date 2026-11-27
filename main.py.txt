@@ -1,1 +1,1 @@
-print('Hello world, my name is Sergey, a live in Russia!')
+print('Hello!')
