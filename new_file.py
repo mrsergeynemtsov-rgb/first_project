@@ -1,1 +1,1 @@
-print(hi my wy)
+print(yes)
